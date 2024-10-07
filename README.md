@@ -1,10 +1,10 @@
-### Hi there 👋 I'm [Danushka!](https://github.com/Danushka2/Danushka2/)
+### Hi there 👋 I'm [AnahyC!](https://github.com/AnahyC2/AnahyC2/)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## I'm a Associate Software Engineer at Acentura
 
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
+- 👨‍💻 I’m currently working on machine learning and data mining projects using java.
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
@@ -40,6 +40,6 @@
 
 ---
 
-Credit: [Danushka2](https://github.com/Danushka2)
+Credit: [AnahyC2](https://github.com/Danushka2)
 
 Last edited on: 30/06/2022
